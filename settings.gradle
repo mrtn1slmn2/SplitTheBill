@@ -1,0 +1,2 @@
+rootProject.name='Split the Bill'
+include ':app'

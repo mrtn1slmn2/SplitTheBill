@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Split the Bill</string>
+    <string name="description">Tip jar at restaurant</string>
+    <string name="txtTitle">Split Your Bill</string>
+    <string name="btnCalc">Split</string>
+    <string name="prompt">Service Quality?</string>
+    <string name="txtGuests">Number of Guests</string>
+    <string-array name="serviceQuality">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="btnOpen">Start</string>
+    <string name="txtTotalBill">$$  Total Bill  $$</string>
+    <string name="txtCalculatedDisplay">Calculated Display</string>
+</resources>
